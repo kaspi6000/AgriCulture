@@ -1,0 +1,65 @@
+/*index.css*/
+.headercontent {
+	clear: both;
+	height: 61px;
+	margin-bottom: 0;
+	background:url(header.png) repeat-x;
+}
+
+.header{
+	margin: 0 auto;
+	max-width: 980px;
+}
+
+.header_list {
+	margin: 0 auto;
+	max-width: 980px;
+}
+
+.logo {
+	float:left;
+	margin-top: 17px;
+	display: inline-block;
+	width: 186px;
+	height: 27px;
+	background: url(AgriCulture.png) no-repeat;
+	text-indent: -999em;
+}
+
+.header_list ul {
+	list-style: none;
+	margin: 0px;
+	padding-top: 10px;
+}
+
+.nav {
+	float: right;
+	margin-top: 20px;
+	font-size: 14px;
+	font-weight: 700;
+}
+
+.nav > li {
+	float: left;
+}
+
+.nav a {
+	outline: 0;
+	padding: 20px 11px 19px;
+}
+
+.manubar {
+    float: right;
+    margin-top: 20px;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.manubar a {
+    outline: 0;
+    padding: 20px 11px 19px;
+}
+
+.manubar > li {
+    float: left;
+}
