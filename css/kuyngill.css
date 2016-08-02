@@ -370,12 +370,3 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
-#img {
-    src="img\kuyngill.jpeg";
-}
-
-/*#about {
-    background: url(../img/kuyngill.jpeg) no-repeat center center scroll;
-    width: auto;
-    padding: 40px;
-}*/
